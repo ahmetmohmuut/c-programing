@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\User\Desktop\Chapter1\Assignment\HomeWork\HomeWork\obj\Debug\HomeWork.exe.config
