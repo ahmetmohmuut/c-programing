@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\bin\Debug\Assignment Files.exe.config
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\bin\Debug\Assignment Files.exe
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\bin\Debug\Assignment Files.pdb
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment Files.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment_Files.Form1.resources
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment_Files.Properties.Resources.resources
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment Files.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment Files.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment Files.exe
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment Files.pdb
+C:\Users\User\Desktop\CA244\Assignment Files\Assignment Files\obj\Debug\Assignment Files.exe.config
